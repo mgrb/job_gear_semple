@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "job_gear_sample"
 version = "0.1.0"
-description = "Sample of a implementation of a activite executable in a background pipline."
+description = "Sample of a implementation of a activite executable in a background pipline"
 authors = ["Marlos Ribeiro"]
 
 [tool.poetry.dependencies]
